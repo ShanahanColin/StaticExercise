@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticExercise", "StaticExercise\StaticExercise.csproj", "{5804C2F6-0A27-43B4-B806-4374D5CAD27C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5804C2F6-0A27-43B4-B806-4374D5CAD27C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{5804C2F6-0A27-43B4-B806-4374D5CAD27C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{5804C2F6-0A27-43B4-B806-4374D5CAD27C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{5804C2F6-0A27-43B4-B806-4374D5CAD27C}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
